@@ -18,10 +18,10 @@
 
 ## APIs
 
-- API's listings
-    -TicketMaster
-    -Spotify
-    -OMDB
+- API's listings:
+    - TicketMaster
+    - Spotify
+    - OMDB
 
 ## Stretch Goals
 
